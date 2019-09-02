@@ -1,0 +1,1 @@
+This is the code source for blog [post](https://fpim.github.io/posts/easy-and-effective-python-type-checker/)
